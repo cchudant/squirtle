@@ -1,0 +1,3 @@
+.todoItem:hover::after {
+    content: " [X]";
+}
